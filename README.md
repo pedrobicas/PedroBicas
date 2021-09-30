@@ -5,7 +5,9 @@
 
 
 ### Sobre mim
-Estudante de Desenvolvimento de Sistemas no  [@SENAI Suíço-Brasileira](https://suicobrasileira.sp.senai.br/) 1/3.
+👨🏻‍💻-Estudante de Desenvolvimento de Sistemas no  [@SENAI Suíço-Brasileira](https://suicobrasileira.sp.senai.br/) 1/3.
 
-- [Primeiro Projeto](https://pedrobicas.github.io/pagina-pessoal/) 👨🏼‍🏫 - Meu primeiro projeto, pagina pessoal no estilo CV, para a disciplina de linguagem de marcação.
+💻-Apaixonado por tecnologia, programação e principalmente jogos, preparado para novos desafios, disposto a aprender coisas novas e vislumbro um futuro empolgante na área de programador.
+
+- [Primeiro Projeto (Curriculo)](https://pedrobicas.github.io/pagina-pessoal/) 📝 - Meu primeiro projeto, pagina pessoal no estilo CV, para a disciplina de linguagem de marcação.
 
