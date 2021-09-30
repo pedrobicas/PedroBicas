@@ -1,13 +1,15 @@
-# Opa, eu sou Pedro Bicas! :D
+# Opaa, eu sou Pedro Bicas! :D
   <a href="https://instagram.com/pedro_bicas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:pedrobicascouto@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  ##
 ### Sobre mim
 👨🏻‍💻-Estudante de Desenvolvimento de Sistemas no  [@SENAI Suíço-Brasileira](https://suicobrasileira.sp.senai.br/) 1/3.
 
 💻-Apaixonado por tecnologia, programação e principalmente jogos, preparado para novos desafios, disposto a aprender coisas novas e vislumbro um futuro empolgante na área de programador.
 
 - [Primeiro Projeto (Curriculo)](https://pedrobicas.github.io/pagina-pessoal/) 📝 - Meu primeiro projeto, pagina pessoal no estilo CV, para a disciplina de linguagem de marcação.
+ ##
 <div align="left">
   <a href="https://github.com/PedroBicas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroBicas&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
