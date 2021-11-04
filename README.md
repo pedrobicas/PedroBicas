@@ -9,6 +9,7 @@
 💻-Apaixonado por tecnologia, programação e principalmente jogos, preparado para novos desafios, disposto a aprender coisas novas e vislumbro um futuro empolgante na área de programação.
 ### Projetos
 - [Curriculo](https://pedrobicas.github.io/pagina-pessoal/) 📝 - Meu primeiro projeto, pagina pessoal no estilo CV, para a disciplina de LIMA.
+- [Geek Steak](https://pedrobicas.github.io/Geek-Steak/) 🥩 - Site de um restaurante gamer, trabalho feito em grupo
  ##
 <div align="left">
   <a href="https://github.com/PedroBicas">
