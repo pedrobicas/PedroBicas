@@ -10,6 +10,7 @@
 ### Projetos
 - [Curriculo](https://pedrobicas.github.io/pagina-pessoal/) 📝 - Meu primeiro projeto, pagina pessoal no estilo CV, para a disciplina de LIMA.
 - [Geek Steak](https://pedrobicas.github.io/Geek-Steak/) 🥩 - Site de um restaurante gamer, trabalho feito em grupo
+- [Prime Video](https://pedrobicas.github.io/prime-video/) 🎬 - Representação do site da Prime Video, feito com html, css e javascript, utilizando um pouco de bootstrap
  ##
 <div align="left">
   <a href="https://github.com/PedroBicas">
