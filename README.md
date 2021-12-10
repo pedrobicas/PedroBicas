@@ -1,5 +1,7 @@
 # Opaa👋, eu sou Pedro Bicas! :D
-  <a href="https://instagram.com/pedro_bicas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<img align="right" alt="Gif"  src="https://cdn.discordapp.com/attachments/905749782721597455/918863404414935050/luiz-di-menfriz-jett-export-unscreen.gif">
+  <a href="https://instagram.com/pedro_bicas" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:pedrobicascouto@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-bicas-89664521a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
@@ -10,7 +12,7 @@
 ### Projetos
 - [Curriculo](https://pedrobicas.github.io/pagina-pessoal/) 📝 - Meu primeiro projeto, pagina pessoal no estilo CV, para a disciplina de LIMA.
 - [Geek Steak](https://pedrobicas.github.io/Geek-Steak/) 🥩 - Site de um restaurante gamer, trabalho feito em grupo
-- [Prime Video](https://pedrobicas.github.io/prime-video/) 🎬 - Representação do site da Prime Video, feito com html, css e javascript, utilizando um pouco de bootstrap
+- [Prime Video](https://pedrobicas.github.io/prime-video/) 🎬 - Representação do site da Prime Video, utilizando um pouco de bootstrap
  ##
 <div align="left">
   <a href="https://github.com/PedroBicas">
@@ -23,6 +25,7 @@
   <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="VS code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg">
+  
 </div>
   
   ##
