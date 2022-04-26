@@ -10,10 +10,7 @@
 👨🏻‍💻-Estudante de Desenvolvimento de Sistemas no  [@SENAI Suíço-Brasileira](https://suicobrasileira.sp.senai.br/) 2/3.
 
 💻-Apaixonado por tecnologia, programação e principalmente jogos, preparado para novos desafios, disposto a aprender coisas novas e vislumbro um futuro empolgante na área de programação.
-### Pequenos Projetos
 - [Curriculo](https://pedrobicas.github.io/pagina-pessoal/) 📝 - Meu primeiro projeto, pagina pessoal no estilo CV, para a disciplina de LIMA.
-- [Geek Steak](https://pedrobicas.github.io/Geek-Steak/) 🥩 - Site de um restaurante gamer, trabalho feito em grupo
-- [Prime Video](https://pedrobicas.github.io/prime-video/) 🎬 - Representação do site da Prime Video, utilizando um pouco de bootstrap
  ##
 <div align="left">
   <a href="https://github.com/PedroBicas">
