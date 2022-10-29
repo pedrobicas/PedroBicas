@@ -7,7 +7,7 @@
 <img align="right" alt="Gif"  src="https://cdn.discordapp.com/attachments/905749782721597455/920105226529300560/AdeptGreatBactrian-max-1mb.gif">
 
 ## Sobre mim 🤖
-👨🏻‍💻-Estudante de Desenvolvimento de Sistemas no  [@SENAI Suíço-Brasileira](https://suicobrasileira.sp.senai.br/) 2/3.
+👨🏻‍💻-Estudante de Desenvolvimento de Sistemas no  [@SENAI Suíço-Brasileira](https://suicobrasileira.sp.senai.br/) 3/3.
 
 💻-Apaixonado por tecnologia, programação e principalmente jogos, preparado para novos desafios, disposto a aprender coisas novas e vislumbro um futuro empolgante na área de programação.
 - [Curriculo](https://pedrobicas.github.io/pagina-pessoal/) 📝 - Meu primeiro projeto, pagina pessoal no estilo CV, para a disciplina de LIMA.
