@@ -7,7 +7,7 @@
 <img align="right" alt="Gif"  src="https://cdn.discordapp.com/attachments/905749782721597455/920105226529300560/AdeptGreatBactrian-max-1mb.gif">
 
 ## Sobre mim 🤖
-👨🏻‍💻-Estudante de Engenharia de Softwae - FIAP 1/.
+👨🏻‍💻-Estudante de Engenharia de Softwae - FIAP 1/8.
 
 💻-Apaixonado por tecnologia, programação e principalmente jogos, preparado para novos desafios, disposto a aprender coisas novas e vislumbro um futuro empolgante na área de programação.
 
