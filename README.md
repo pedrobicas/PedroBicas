@@ -7,11 +7,14 @@
 <img align="right" alt="Gif"  src="https://cdn.discordapp.com/attachments/905749782721597455/920105226529300560/AdeptGreatBactrian-max-1mb.gif">
 
 ## Sobre mim 🤖
-👨🏻‍💻-Estudante de Engenharia de Softwae - FIAP 1/8.
 
-💻-Apaixonado por tecnologia, programação e principalmente jogos, preparado para novos desafios, disposto a aprender coisas novas e vislumbro um futuro empolgante na área de programação.
 
- ##
+💻-Apaixonado por tecnologia, programação e principalmente jogos, preparado para novos desafios. Cursando engenharia de software na FIAP. Tenho habilidade em desenvolvimento de aplicações (HTML, CSS, JavaScript, React, ReactNative, Node e MySQL), além de estar adequado e trabalhar com a metodologia SCRUM, sou dinâmico, prestativo, gosto de trabalhar em equipe e possuo uma facilidade em aprender novas coisas.
+
+## Formação 👨🏻‍💻
+- Engenharia de Softwae - FIAP 1/8.
+- Tecnico em Analise e Desenvolvimento de sistemas.
+##
 <div align="left">
   <a href="https://github.com/PedroBicas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroBicas&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
