@@ -12,7 +12,7 @@
 💻-Cursando engenharia de software na FIAP, tecnico em desenvolvimento de sistemas no SENAI. Tenho habilidade em desenvolvimento de aplicações (HTML, CSS, JavaScript, React, ReactNative, Node e MySQL), além de estar adequado e trabalhar com a metodologia SCRUM, sou dinâmico, prestativo, gosto de trabalhar em equipe e possuo uma facilidade em aprender novas coisas.
 
 ## Formação 👨🏻‍💻
-- Engenharia de Softwae - FIAP 1/8.
+- Engenharia de Softwae - FIAP 3/8.
 - Tecnico em Analise e Desenvolvimento de sistemas - SENAI.
 ##
 <div align="left">
