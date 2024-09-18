@@ -1,5 +1,4 @@
 # Opaa👋, eu sou Pedro Bicas! :D
-  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:pedrobicascouto@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-bicas-89664521a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <img align="right" alt="Gif"  src="https://cdn.discordapp.com/attachments/905749782721597455/920105226529300560/AdeptGreatBactrian-max-1mb.gif">
