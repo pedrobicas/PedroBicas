@@ -9,7 +9,7 @@
 💻-Cursando engenharia de software na FIAP, tecnico em desenvolvimento de sistemas no SENAI. Tenho habilidade em desenvolvimento de aplicações (HTML, CSS, JavaScript, Typescript, Angular, React, ReactNative, Node e MySQL), além de estar adequado e trabalhar com a metodologia SCRUM, sou dinâmico, prestativo, gosto de trabalhar em equipe e possuo uma facilidade em aprender novas coisas.
 
 ## Formação 👨🏻‍💻
-- Engenharia de Softwae - FIAP 4/8.
+- Engenharia de Softwae - FIAP 5/8.
 - Tecnico em Analise e Desenvolvimento de sistemas - SENAI.
 ##
 <div align="left">
@@ -37,6 +37,6 @@
 <div> 
 
  
-  ![Snake animation](https://github.com/PedroBicas/PedroBicas/blob/output/github-contribution-grid-snake2.svg)
+  ![snake animation](https://github.com/PedroBicas/PedroBicas/blob/output/github-contribution-grid-snake2.svg)
  
 </div>
