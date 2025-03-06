@@ -34,9 +34,3 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/pedrobicas/count.svg" />
 </p>
-<div> 
-
- 
-  ![snake animation](https://github.com/PedroBicas/PedroBicas/blob/output/github-contribution-grid-snake2.svg)
- 
-</div>
