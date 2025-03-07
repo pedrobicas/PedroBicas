@@ -31,7 +31,7 @@
     
 ## 
 
-![](https://github-profile-trophy.vercel.app/?username=pedrobicas&theme=default&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=pedrobicas&theme=nord&no-frame=false&no-bg=false&margin-w=4)
 
 ##
  <p align="center"> 
