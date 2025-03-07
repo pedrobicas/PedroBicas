@@ -1,4 +1,4 @@
-# Opaa👋, eu sou Pedro Bicas! :D
+# Opaa👋, eu sou Pedro Bicas!
   <a href = "mailto:pedrobicascouto@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-bicas-89664521a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <img align="right" alt="Gif"  src="https://cdn.discordapp.com/attachments/905749782721597455/920105226529300560/AdeptGreatBactrian-max-1mb.gif">
@@ -6,7 +6,7 @@
 ## Sobre mim 🤖
 
 
-💻-Cursando engenharia de software na FIAP, tecnico em desenvolvimento de sistemas no SENAI. Tenho habilidade em desenvolvimento de aplicações (HTML, CSS, JavaScript, Typescript, Angular, React, ReactNative, Node e MySQL), além de estar adequado e trabalhar com a metodologia SCRUM, sou dinâmico, prestativo, gosto de trabalhar em equipe e possuo uma facilidade em aprender novas coisas.
+💻- Cursando engenharia de software na FIAP, tecnico em desenvolvimento de sistemas no SENAI. Tenho habilidade em desenvolvimento de aplicações (HTML, CSS, JavaScript, Typescript, Angular, React, ReactNative, Node e MySQL), além de estar adequado e trabalhar com a metodologia SCRUM, sou dinâmico, prestativo, gosto de trabalhar em equipe e possuo uma facilidade em aprender novas coisas.
 
 ## Formação 👨🏻‍💻
 - Engenharia de Softwae - FIAP 5/8.
@@ -28,17 +28,13 @@
   <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
-  
-  ##
+    
+## 
+
+![](https://github-profile-trophy.vercel.app/?username=pedrobicas&theme=default&no-frame=false&no-bg=true&margin-w=4)
+
+##
  <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/pedrobicas/count.svg" />
 </p>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/pedrobicas/pedrobicas/output/snake.svg" alt="Snake animation" />
-
-###
