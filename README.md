@@ -34,3 +34,11 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/pedrobicas/count.svg" />
 </p>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/pedrobicas/pedrobicas/output/snake.svg" alt="Snake animation" />
+
+###
