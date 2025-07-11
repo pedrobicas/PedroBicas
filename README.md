@@ -1,14 +1,14 @@
-# Opa👋, eu sou Pedro Bicas!
+# Ola, eu sou Pedro Bicas!
   <a href = "mailto:pedrobicascouto@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-bicas-89664521a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <img align="right" alt="Gif"  src="https://cdn.discordapp.com/attachments/905749782721597455/920105226529300560/AdeptGreatBactrian-max-1mb.gif">
 
-## Sobre mim 🤖
+## Sobre mim
 
 
-💻- Cursando engenharia de software na FIAP, tecnico em desenvolvimento de sistemas no SENAI. Tenho habilidade em desenvolvimento de aplicações (HTML, CSS, JavaScript, Typescript, Angular, React, ReactNative, Node e MySQL), além de estar adequado e trabalhar com a metodologia SCRUM, sou dinâmico, prestativo, gosto de trabalhar em equipe e possuo uma facilidade em aprender novas coisas.
+Cursando engenharia de software na FIAP, tecnico em desenvolvimento de sistemas no SENAI. Tenho habilidade em desenvolvimento de aplicações (HTML, CSS, JavaScript, Typescript, Angular, React, ReactNative, Node e MySQL), além de estar adequado e trabalhar com a metodologia SCRUM, sou dinâmico, prestativo, gosto de trabalhar em equipe e possuo uma facilidade em aprender novas coisas.
 
-## Formação 👨🏻‍💻
+## Formação 
 - Engenharia de Softwae - FIAP 5/8.
 - Tecnico em Analise e Desenvolvimento de sistemas - SENAI.
 ##
