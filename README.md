@@ -1,57 +1,41 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=header&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&animation=twinkling" />
 </p>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&color=5B6E8D&size=30&center=true&vCenter=true&width=435&lines=Pedro+Bicas;Desenvolvedor+Full-Stack;Engenheiro+de+Software" alt="Typing SVG" />
 </div>
 
-## 🌟 Sobre Mim
+## 👨‍💻 Sobre Mim
 
-```typescript 
-interface DevPedro { 
-  name: "Pedro Bicas";
-  role: "Desenvolvedor Full Stack";
-  education: {
-    college: "Engenharia de Software @ FIAP (5/8)";
-    technical: "Análise e Desenvolvimento de Sistemas @ SENAI";
-  };
-  skills: {
-    frontend: ["TypeScript", "Angular", "React", "React Native"];
-    backend: ["Node.js", "Spring Boot", "Python"];
-    databases: ["MySQL", "PostgreSQL"];
-    devops: ["Docker", "GitHub Actions", "AWS"];
-    methodologies: ["Scrum", "Kanban"];
-  };
-  traits: ["Proativo", "Resolvedor de Problemas", "Trabalho em Equipe"];
-} 
-```
+Sou **Pedro Bicas**, estudante de Engenharia de Software na FIAP e técnico em Desenvolvimento de Sistemas pelo SENAI. 
+
+**Atuo no desenvolvimento de software** com linguagens modernas como TypeScript/JavaScript para interfaces dinâmicas (Angular, React), Java com Spring Boot para APIs robustas, Python para automações e SQL para bancos relacionais. 
+
+Minha experiência abrange:
+- Construção de **sistemas web completos** (front-end + back-end)
+- Desenvolvimento de **APIs RESTful** e microsserviços
+- Integração entre sistemas heterogêneos
+- **Boas práticas** como código limpo, DTOs, arquitetura em camadas, componentização e documentação
+- **Versionamento** com Git (Git Flow, Conventional Commits)
+- **Containerização** de aplicações com Docker e orquestração básica
+
+Além de estar adequado e trabalhar com a metodologia SCRUM, sou dinâmico, prestativo, gosto de trabalhar em equipe e possuo uma facilidade em aprender novas coisas.
 
 ## 🛠️ Tech Stack
 
-### Linguagens e Ferramentas
-<div>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+### 🔧 Principais Tecnologias
+<div style="margin: 15px 0;">
+  <img src="https://skillicons.dev/icons?i=ts,js,java,py,angular,react,spring,nodejs" />
 </div>
 
-### Frameworks e Bibliotecas
-<div>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
+### 🗃️ Bancos de Dados & Cloud
+<div style="margin: 15px 0;">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,docker" />
 </div>
 
-### Banco de Dados e DevOps
-<div>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+### 🧰 Ferramentas de Desenvolvimento
+<div style="margin: 15px 0;">
+  <img src="https://skillicons.dev/icons?i=vscode,idea,figma,postman,git,linux" />
 </div>
 
 ---
@@ -96,5 +80,5 @@ interface DevPedro {
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling" />
 </p>
