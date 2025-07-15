@@ -1,10 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&animation=twinkling" />
-</p>
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&color=5B6E8D&size=30&center=true&vCenter=true&width=435&lines=Pedro+Bicas;Desenvolvedor+Full-Stack;Engenheiro+de+Software" alt="Typing SVG" />
-</div>
-
 ## 👨‍💻 Sobre Mim
 
 Sou **Pedro Bicas**, estudante de Engenharia de Software na FIAP e técnico em Desenvolvimento de Sistemas pelo SENAI. 
@@ -18,8 +11,6 @@ Minha experiência abrange:
 - **Boas práticas** como código limpo, DTOs, arquitetura em camadas, componentização e documentação
 - **Versionamento** com Git (Git Flow, Conventional Commits)
 - **Containerização** de aplicações com Docker e orquestração básica
-
-Além de estar adequado e trabalhar com a metodologia SCRUM, sou dinâmico, prestativo, gosto de trabalhar em equipe e possuo uma facilidade em aprender novas coisas.
 
 ## 🛠️ Tech Stack
 
@@ -77,8 +68,4 @@ Além de estar adequado e trabalhar com a metodologia SCRUM, sou dinâmico, pres
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pedrobicas&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling" />
 </p>
