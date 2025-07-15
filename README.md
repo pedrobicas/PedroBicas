@@ -1,43 +1,103 @@
-# Ola, eu sou Pedro Bicas!
-  <a href = "mailto:pedro.bicas14@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/pedro-bicas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&animation=twinkling" />
+</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&color=22D3EE&size=30&center=true&vCenter=true&width=435&lines=Pedro+Bicas;Desenvolvedor+Full-Stack;Engenheiro+de+Software" alt="Typing SVG" />
+</div>
 
-## Sobre mim
+## 🌟 Sobre Mim
 
+```typescript 
+interface DevPedro { 
+  name: "Pedro Bicas";
+  role: "Desenvolvedor Full Stack";
+  education: {
+    college: "Engenharia de Software @ FIAP (5/8)";
+    technical: "Análise e Desenvolvimento de Sistemas @ SENAI";
+  };
+  skills: {
+    frontend: ["TypeScript", "Angular", "React", "React Native"];
+    backend: ["Node.js", "Spring Boot", "Python"];
+    databases: ["MySQL", "PostgreSQL"];
+    devops: ["Docker", "GitHub Actions", "AWS"];
+    methodologies: ["Scrum", "Kanban"];
+  };
+  traits: ["Proativo", "Resolvedor de Problemas", "Trabalho em Equipe"];
+} 
+```
 
-Cursando engenharia de software na FIAP, tecnico em desenvolvimento de sistemas no SENAI. Tenho habilidade em desenvolvimento de aplicações (HTML, CSS, JavaScript, Typescript, Angular, React, ReactNative, Node e MySQL), além de estar adequado e trabalhar com a metodologia SCRUM, sou dinâmico, prestativo, gosto de trabalhar em equipe e possuo uma facilidade em aprender novas coisas.
+## 🛠️ Tech Stack
 
-## Formação 
-- Engenharia de Softwae - FIAP 5/8.
-- Tecnico em Analise e Desenvolvimento de sistemas - SENAI.
-##
-<div align="left">
+### Linguagens e Ferramentas
+<div>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+</div>
+
+### Frameworks e Bibliotecas
+<div>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
+</div>
+
+### Banco de Dados e DevOps
+<div>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</div>
+
+---
+
+## 📈 Estatísticas GitHub
+<div align="center">
   <a href="https://github.com/PedroBicas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrobicas&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobicas&layout=compact&langs_count=7&theme=github_dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrobicas&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&hide=issues" alt="Pedro's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobicas&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" />
+  </a>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-    <img align="center" alt="Java Spring Boot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-   
-
-  <img align="center" alt="Dcoker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedrobicas&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
-    
-## 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pedrobicas&theme=dark&no-frame=true&no-bg=true&margin-w=15&column=7" alt="GitHub Trophies" />
+</div>
 
-![](https://github-profile-trophy.vercel.app/?username=pedrobicas&theme=nord&no-frame=false&no-bg=false&margin-w=4)
+---
 
-##
- <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/pedrobicas/count.svg" />
+## 🌱 Atualmente Aprendendo
+
+* **Arquitetura de Microsserviços** com Spring Cloud e Docker
+* **Testes Automatizados** (Jest, JUnit, Cypress)
+* **CI/CD Avançado** com GitHub Actions
+* **Visão Computacional** usando Python
+
+---
+
+## 📫 Como Me Encontrar
+<div align="center" style="margin-top: 20px;">
+  <a href="mailto:pedro.bicas14@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/pedro-bicas/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/PedroBicas">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pedrobicas&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" />
 </p>
