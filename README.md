@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=header&animation=twinkling" />
 </p>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&color=22D3EE&size=30&center=true&vCenter=true&width=435&lines=Pedro+Bicas;Desenvolvedor+Full-Stack;Engenheiro+de+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&color=5B6E8D&size=30&center=true&vCenter=true&width=435&lines=Pedro+Bicas;Desenvolvedor+Full-Stack;Engenheiro+de+Software" alt="Typing SVG" />
 </div>
 
 ## 🌟 Sobre Mim
@@ -59,18 +59,13 @@ interface DevPedro {
 ## 📈 Estatísticas GitHub
 <div align="center">
   <a href="https://github.com/PedroBicas">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrobicas&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&hide=issues" alt="Pedro's GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobicas&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrobicas&show_icons=true&theme=nord&hide_border=true&include_all_commits=true&count_private=true&hide=issues" alt="Pedro's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobicas&layout=compact&theme=nord&hide_border=true&langs_count=6" alt="Top Languages" />
   </a>
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedrobicas&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pedrobicas&theme=nord&no-frame=true&no-bg=true&margin-w=15&column=7" alt="GitHub Trophies" />
 </div>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pedrobicas&theme=dark&no-frame=true&no-bg=true&margin-w=15&column=7" alt="GitHub Trophies" />
-</div>
-
----
 
 ## 🌱 Atualmente Aprendendo
 
@@ -93,6 +88,8 @@ interface DevPedro {
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pedrobicas&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
