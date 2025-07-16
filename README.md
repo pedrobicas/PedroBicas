@@ -35,7 +35,7 @@ Minha experiência abrange:
 <div align="center">
   <a href="https://github.com/PedroBicas">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrobicas&show_icons=true&theme=nord&hide_border=true&include_all_commits=true&count_private=true&hide=issues" alt="Pedro's GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobicas&layout=compact&theme=nord&hide_border=true&langs_count=6" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobicas&hide=html&layout=compact&theme=nord&hide_border=true&langs_count=6" alt="Top Languages" />
   </a>
 </div>
 <div align="center">
