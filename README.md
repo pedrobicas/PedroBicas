@@ -7,8 +7,6 @@ Sou **Pedro Bicas**, estudante de Engenharia de Software na FIAP e técnico em D
 Minha experiência abrange:
 - Construção de **sistemas web completos** (front-end + back-end)
 - Desenvolvimento de **APIs RESTful** e microsserviços
-- Integração entre sistemas heterogêneos
-- **Boas práticas** como código limpo, DTOs, arquitetura em camadas, componentização e documentação
 - **Versionamento** com Git (Git Flow, Conventional Commits)
 - **Containerização** de aplicações com Docker e orquestração básica
 
