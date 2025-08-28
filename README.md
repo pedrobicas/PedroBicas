@@ -1,14 +1,14 @@
 ## 👨‍💻 Sobre Mim
 
-Sou **Pedro Bicas**, estudante de Engenharia de Software na FIAP e técnico em Desenvolvimento de Sistemas pelo SENAI. 
+Sou Pedro Bicas, estudante de Engenharia de Software na FIAP e técnico em Desenvolvimento de Sistemas pelo SENAI. 
 
-**Atuo no desenvolvimento de software** com linguagens modernas como TypeScript/JavaScript para interfaces dinâmicas (Angular, React), Java com Spring Boot para APIs robustas, Python para automações e SQL para bancos relacionais. 
+Desenvolvedor Fullstack com linguagens como TypeScript/JavaScript para interfaces (Angular, React), Java com Spring Boot para APIs robustas, Python para automações e SQL para bancos relacionais. 
 
 Minha experiência abrange:
-- Construção de **sistemas web completos** (front-end + back-end)
-- Desenvolvimento de **APIs RESTful** e microsserviços
-- **Versionamento** com Git (Git Flow, Conventional Commits)
-- **Containerização** de aplicações com Docker e orquestração básica
+- Construção de sistemas web completos (front-end + back-end)
+- Desenvolvimento de APIs RESTful e microsserviços
+- Versionamento com Git
+- Containerização de aplicações com Docker e orquestração básica
 
 ## 🛠️ Tech Stack
 
@@ -39,13 +39,6 @@ Minha experiência abrange:
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=pedrobicas&theme=nord&no-frame=true&no-bg=true&margin-w=15&column=7" alt="GitHub Trophies" />
 </div>
-
-## 🌱 Atualmente Aprendendo
-
-* **Arquitetura de Microsserviços** com Spring Cloud e Docker
-* **Testes Automatizados** (Jest, JUnit, Cypress)
-* **CI/CD Avançado** com GitHub Actions
-* **Visão Computacional** usando Python
 
 ---
 
