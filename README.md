@@ -1,35 +1,64 @@
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Pedro%20Bicas%20&fontAlign=50&fontAlignY=40&color=0:2E3440,100:3B4252&fontColor=D8DEE9&animation=fadeIn" />
+
+  <br/>
+
+  <a href="mailto:pedro.bicas14@gmail.com"><img src="https://img.shields.io/badge/Email-88C0D0?style=for-the-badge&logo=gmail&logoColor=2E3440"/></a>
+  <a href="https://www.linkedin.com/in/pedro-bicas/"><img src="https://img.shields.io/badge/LinkedIn-81A1C1?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/PedroBicas"><img src="https://img.shields.io/badge/GitHub-2E3440?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</div>
+
+---
+
 ## 👨‍💻 Sobre Mim
 
-Sou Pedro Bicas, estudante de Engenharia de Software na FIAP e técnico em Desenvolvimento de Sistemas pelo SENAI. 
+Desenvolvedor Fullstack apaixonado por transformar ideias em soluções de software robustas e eficientes. Atualmente, estou cursando **Engenharia de Software na FIAP** e possuo formação técnica em **Desenvolvimento de Sistemas pelo SENAI**, combinando a teoria acadêmica com a prática de mercado para construir aplicações de alto impacto.
 
-Desenvolvedor Fullstack com linguagens como TypeScript/JavaScript para interfaces (Angular, React), Java com Spring Boot para APIs robustas, Python para automações e SQL para bancos relacionais. 
+---
 
-Minha experiência abrange:
-- Construção de sistemas web completos (front-end + back-end)
-- Desenvolvimento de APIs RESTful e microsserviços
-- Versionamento com Git
-- Containerização de aplicações com Docker e orquestração básica
+ ## 💻 Principais Projetos
+ 
+ <div align="center">
+ 
+ | Projeto | Descrição | Stack |
+ |:---|:---|:---|
+| 💼 [**Portfólio**](https://pedrobicas.dev) | Portfólio pessoal, responsivo e animado com seções de habilidades, experiências e projetos. | ![Tech](https://skillicons.dev/icons?i=angular,ts,sass) |
+ | 🎵 [**My Spotify Universe**](https://my-universe-spotify.pedrobicas.dev) | Gera universos musicais a partir do seu gosto no Spotify. | ![Tech](https://skillicons.dev/icons?i=java,spring,postgres,docker) |
+ | 📈 **Crypto Analysis** | Plataforma de análise técnica e previsão de criptomoedas com indicadores avançados e simulação de investimentos. | ![Tech](https://skillicons.dev/icons?i=python) |
+ | 💬 **Chat em tempo real** | Frontend Angular para chat em tempo real com tema claro/escuro, notificações e chats público/privado via STOMP. | ![Tech](https://skillicons.dev/icons?i=angular,ts,sass,java,spring) |
 
-## 🛠️ Tech Stack
+ </div>
 
-### 🔧 Principais Tecnologias
-<div style="margin: 15px 0;">
-  <img src="https://skillicons.dev/icons?i=ts,js,java,py,angular,react,spring,nodejs" />
-</div>
+---
 
-### 🗃️ Bancos de Dados & Cloud
-<div style="margin: 15px 0;">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,docker" />
-</div>
-
-### 🧰 Ferramentas de Desenvolvimento
-<div style="margin: 15px 0;">
-  <img src="https://skillicons.dev/icons?i=vscode,idea,figma,postman,git,linux" />
+## ⚡ Tech Stack Principal
+<div align="center">
+  <p>
+    <strong>Backend:</strong>
+    <br>
+    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,py&theme=dark" />
+  </p>
+  <p>
+    <strong>Frontend:</strong>
+    <br>
+    <img src="https://skillicons.dev/icons?i=angular,react,ts,js,sass,scss&theme=dark" />
+  </p>
+  <p>
+    <strong>Outros:</strong>
+    <br>
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,linux&theme=dark" />
+  </p>
 </div>
 
 ---
 
 ## 📈 Estatísticas GitHub
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedrobicas&theme=nord&area=true&hide_border=true&custom_title=Atividade%20de%20Código%20(Últimos%2030%20dias)" />
+</div>
+
 <div align="center">
   <a href="https://github.com/PedroBicas">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrobicas&show_icons=true&theme=nord&hide_border=true&include_all_commits=true&count_private=true&hide=issues" alt="Pedro's GitHub Stats" />
@@ -40,23 +69,17 @@ Minha experiência abrange:
   <img src="https://github-profile-trophy.vercel.app/?username=pedrobicas&theme=nord&no-frame=true&no-bg=true&margin-w=15&column=7" alt="GitHub Trophies" />
 </div>
 
----
-
-## 📫 Como Me Encontrar
-<div align="center" style="margin-top: 20px;">
-  <a href="mailto:pedro.bicas14@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/pedro-bicas/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/PedroBicas">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pedrobicas&theme=nord&hide_border=true" />
 </div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pedrobicas&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=pedrobicas&label=Profile%20views&color=4c566a&style=flat" alt="Profile views" />
+
+  <br><br>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2E3440,100:3B4252" />
+</div>
+
