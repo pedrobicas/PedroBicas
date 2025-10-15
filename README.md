@@ -25,9 +25,10 @@ Desenvolvedor Fullstack apaixonado por transformar ideias em soluções de softw
  | Projeto | Descrição | Stack |
  |:---|:---|:---|
 | 💼 [**Portfólio**](https://pedrobicas.dev) | Portfólio pessoal, responsivo e animado com seções de habilidades, experiências e projetos. | ![Tech](https://skillicons.dev/icons?i=angular,ts,sass) |
- | 🎵 [**My Spotify Universe**](https://my-universe-spotify.pedrobicas.dev) | Gera universos musicais a partir do seu gosto no Spotify. | ![Tech](https://skillicons.dev/icons?i=java,spring,postgres,docker) |
+ | 🎵 [**My Spotify Universe**](https://my-universe-spotify.pedrobicas.dev) | Gera universos musicais a partir do seu gosto no Spotify. | ![Tech](https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,javascript,express) |
  | 📈 **Crypto Analysis** | Plataforma de análise técnica e previsão de criptomoedas com indicadores avançados e simulação de investimentos. | ![Tech](https://skillicons.dev/icons?i=python) |
- | 💬 **Chat em tempo real** | Frontend Angular para chat em tempo real com tema claro/escuro, notificações e chats público/privado via STOMP. | ![Tech](https://skillicons.dev/icons?i=angular,ts,sass,java,spring) |
+ | 💬 **Chat em tempo real** | Frontend Angular para chat em tempo real com tema claro/escuro, notificações e chats público/privado via STOMP. | ![Tech](https://skillicons.dev/icons?i=angular,ts,sass,java,spring,hibernate) |
+ | 📄 **Postlocal** | Plataforma completa para geração de conteúdo para redes sociais com IA. | ![Tech](https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,javascript,python) |
 
  </div>
 
@@ -43,7 +44,7 @@ Desenvolvedor Fullstack apaixonado por transformar ideias em soluções de softw
   <p>
     <strong>Frontend:</strong>
     <br>
-    <img src="https://skillicons.dev/icons?i=angular,react,ts,js,sass,scss&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=angular,react,ts,js,sass&theme=dark" />
   </p>
   <p>
     <strong>Outros:</strong>
