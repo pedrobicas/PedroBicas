@@ -2,21 +2,12 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&fontAlign=50&fontAlignY=40&color=0:2E3440,100:3B4252&fontColor=D8DEE9&animation=fadeIn" />
 
-  <br/>
-
-  <a href="mailto:pedro.bicas14@gmail.com"><img src="https://img.shields.io/badge/Email-88C0D0?style=for-the-badge&logo=gmail&logoColor=2E3440"/></a>
-  <a href="https://www.linkedin.com/in/pedro-bicas/"><img src="https://img.shields.io/badge/LinkedIn-81A1C1?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/PedroBicas"><img src="https://img.shields.io/badge/GitHub-2E3440?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
----
-
 ## 👨‍💻 Sobre Mim
 
-Desenvolvedor Fullstack apaixonado por transformar ideias em soluções de software robustas e eficientes. Atualmente, estou cursando **Engenharia de Software na FIAP** e possuo formação técnica em **Desenvolvimento de Sistemas pelo SENAI**, combinando a teoria acadêmica com a prática de mercado para construir aplicações de alto impacto.
-
----
+Desenvolvedor Fullstack. Atualmente, estou cursando **Engenharia de Software na FIAP** e possuo formação técnica em **Desenvolvimento de Sistemas pelo SENAI**, combinando a teoria acadêmica com a prática de mercado para construir aplicações de alto impacto.
 
  ## 💻 Principais Projetos
  
