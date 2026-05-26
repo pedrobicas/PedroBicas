@@ -60,9 +60,6 @@ Os projetos pessoais geralmente aparecem quando quero usar algo que não existe 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedrobicas&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area_color=0D1117&area=true&hide_border=true&custom_title=Contribuições" />
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/pedrobicas/pedrobicas/output/github-contribution-grid-snake-dark.svg" />
-</div> 
 
 ---
 
