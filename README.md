@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=180&color=0:0D1117,100:161B22&fontColor=58A6FF&fontSize=36&text=Pedro%20Bicas&desc=Fullstack%20Developer%20%C2%B7%20S%C3%A3o%20Paulo%2C%20BR&descAlignY=68&descSize=14&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=180&color=0:0D1117,100:161B22&fontColor=58A6FF&fontSize=36&text=Pedro%20Bicas&desc=Fullstack%20Developer&descAlignY=68&descSize=14&animation=fadeIn" />
 
 <div align="center">
 
