@@ -12,7 +12,7 @@
 
 ---
 
-Trabalho com desenvolvimento fullstack. Angular e React no front, Java/Spring e Node.js no back. Estou na graduação de Engenharia de Software na FIAP e tenho formação técnica em Desenvolvimento de Sistemas pelo SENAI.
+Trabalho com desenvolvimento fullstack. Angular e React no front, Java/Spring e Node.js no back. Estou cursando Engenharia de Software na FIAP e sou formado em técnico em Desenvolvimento de Sistemas pelo SENAI.
 
 Os projetos pessoais geralmente aparecem quando quero usar algo que não existe como eu queria, ou quando quero entender de verdade como algo funciona por dentro.
 
@@ -53,14 +53,7 @@ Os projetos pessoais geralmente aparecem quando quero usar algo que não existe 
 ## GitHub
 
 <div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=pedrobicas&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide=issues&rank_icon=github&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&ring_color=58A6FF" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobicas&hide=html&layout=compact&hide_border=true&langs_count=6&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" />
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pedrobicas&hide_border=true&background=0D1117&stroke=21262D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" />
+  <img src="https://streak-stats.demolab.com?user=pedrobicas&hide_border=true&background=0D1117&stroke=21262D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" />
 </div>
 
 <div align="center">
@@ -68,13 +61,8 @@ Os projetos pessoais geralmente aparecem quando quero usar algo que não existe 
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pedrobicas&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" />
-</div>
-
-
-<div align="center">
   <img src="https://raw.githubusercontent.com/pedrobicas/pedrobicas/output/github-contribution-grid-snake-dark.svg" />
-</div>
+</div> 
 
 ---
 
