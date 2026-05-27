@@ -12,9 +12,7 @@
 
 ---
 
-Trabalho com desenvolvimento fullstack. Angular e React no front, Java/Spring e Node.js no back. Estou cursando Engenharia de Software na FIAP e sou formado em técnico em Desenvolvimento de Sistemas pelo SENAI.
-
-Os projetos pessoais geralmente aparecem quando quero usar algo que não existe como eu queria, ou quando quero entender de verdade como algo funciona por dentro.
+Desenvolvedor fullstack com mais de 1 ano de experiência profissional. Angular e React no front, Java/Spring e Node.js no back. Atualmente atuo como bolsista no InCor (HCFMUSP), desenvolvendo aplicações web e APIs RESTful. Estou cursando Engenharia de Software na FIAP e sou formado em técnico em Desenvolvimento de Sistemas pelo SENAI.
 
 ---
 
