@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-label="pedrobicas.com — portfólio de Pedro Bicas">
+  <title>pedrobicas.com — portfólio de Pedro Bicas</title>
+  <defs>
+    <clipPath id="card"><rect width="1200" height="390" rx="26"/></clipPath>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0A1628"/>
+      <stop offset="0.58" stop-color="#0B1729"/>
+      <stop offset="1" stop-color="#0D1C31"/>
+    </linearGradient>
+    <radialGradient id="aura" cx="0.76" cy="0.46" r="0.58">
+      <stop offset="0" stop-color="#58A6FF" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#58A6FF" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="screen" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0D1A2C"/>
+      <stop offset="1" stop-color="#091321"/>
+    </linearGradient>
+    <filter id="blur" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="12"/></filter>
+    <style>
+      .sans{font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
+      .mono{font-family:"JetBrains Mono",ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+    </style>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="1200" height="390" fill="url(#bg)"/>
+    <rect width="1200" height="390" fill="url(#aura)"/>
+
+    <g stroke="#16294A" stroke-width="1" opacity="0.35">
+      <path d="M32 0V390M330 0V390M654 0V390M1170 0V390"/>
+      <path d="M0 32H1200M0 258H1200M0 358H1200"/>
+    </g>
+
+    <circle cx="59" cy="52" r="4" fill="#58A6FF">
+      <animate attributeName="opacity" dur="2.8s" repeatCount="indefinite" values=".35;1;.35"/>
+    </circle>
+    <text x="74" y="58" class="mono" fill="#58A6FF" font-size="15" letter-spacing="1.2">PORTFÓLIO / PEDROBICAS.COM</text>
+
+    <text x="54" y="148" class="sans" fill="#E6EDF3" font-size="68" font-weight="800" letter-spacing="-2">pedrobicas.com</text>
+
+    <text x="54" y="194" class="sans" fill="#8FA3BF" font-size="21">
+      <tspan x="54" dy="0">Projetos pessoais, interfaces e experimentos reunidos.</tspan>
+      <tspan x="54" dy="30">Um espaço feito para explorar, não apenas listar.</tspan>
+    </text>
+
+    <g transform="translate(54 275)">
+      <g>
+        <text x="0" y="0" class="mono" fill="#58A6FF" font-size="12">01</text>
+        <text x="31" y="0" class="sans" fill="#E6EDF3" font-size="14" font-weight="700">PROJETOS</text>
+        <text x="31" y="23" class="sans" fill="#8FA3BF" font-size="13">seleção e detalhes</text>
+      </g>
+      <g transform="translate(185 0)">
+        <text x="0" y="0" class="mono" fill="#58A6FF" font-size="12">02</text>
+        <text x="31" y="0" class="sans" fill="#E6EDF3" font-size="14" font-weight="700">EXPERIMENTOS</text>
+        <text x="31" y="23" class="sans" fill="#8FA3BF" font-size="13">web e interação</text>
+      </g>
+      <g transform="translate(370 0)">
+        <text x="0" y="0" class="mono" fill="#58A6FF" font-size="12">03</text>
+        <text x="31" y="0" class="sans" fill="#E6EDF3" font-size="14" font-weight="700">SOBRE</text>
+        <text x="31" y="23" class="sans" fill="#8FA3BF" font-size="13">stack e trajetória</text>
+      </g>
+    </g>
+
+    <g transform="translate(54 334)">
+      <rect width="235" height="40" rx="12" fill="#0F1F38" stroke="#1D3354"/>
+      <text x="17" y="25" class="sans" fill="#E6EDF3" font-size="14" font-weight="700" letter-spacing=".4">EXPLORAR PORTFÓLIO</text>
+      <path d="M198 12h18v18M216 12l-20 20" fill="none" stroke="#9CCBFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+
+    <g>
+      <animateTransform attributeName="transform" type="translate" dur="6s" repeatCount="indefinite" values="0 0;0 -5;0 0"/>
+
+      <rect x="690" y="42" width="455" height="306" rx="18" fill="url(#screen)" stroke="#1D3354" stroke-width="1.5"/>
+      <path d="M690 90H1145" stroke="#1D3354"/>
+      <circle cx="711" cy="66" r="4" fill="#FF6B6B" opacity=".8"/>
+      <circle cx="725" cy="66" r="4" fill="#FFD166" opacity=".8"/>
+      <circle cx="739" cy="66" r="4" fill="#4FD1A5" opacity=".8"/>
+      <text x="748" y="70" class="mono" fill="#8FA3BF" font-size="12">pedrobicas.com</text>
+
+      <rect x="708" y="102" width="419" height="228" rx="14" fill="#0B182A" stroke="#142B49"/>
+      <text x="717" y="126" class="mono" fill="#58A6FF" font-size="11" letter-spacing="1">SELECTED / WORK</text>
+      <text x="717" y="171" class="sans" fill="#E6EDF3" font-size="38" font-weight="800" letter-spacing="-1">PROJECT</text>
+      <text x="717" y="207" class="sans" fill="#E6EDF3" font-size="38" font-weight="800" letter-spacing="-1">INDEX</text>
+
+      <path d="M1032 127V205 M1032 127H1069 C1098 127 1098 165 1069 165H1032 M1055 165H1083 C1113 165 1113 205 1083 205H1055" fill="none" stroke="#58A6FF" stroke-width="5" opacity=".28" stroke-linecap="round" stroke-linejoin="round"/>
+
+      <g class="sans">
+        <rect x="708" y="232" width="419" height="28" rx="8" fill="#0F1F38" opacity=".92"/>
+        <text x="719" y="251" class="mono" fill="#58A6FF" font-size="11">01</text>
+        <text x="760" y="251" fill="#E6EDF3" font-size="13" font-weight="700">INTERFACES</text>
+        <text x="985" y="251" class="mono" fill="#8FA3BF" font-size="10">WEB</text>
+        <path d="M1078 246h10" stroke="#58A6FF" stroke-width="1.5"/>
+
+        <rect x="708" y="266" width="419" height="28" rx="8" fill="#0F1F38" opacity=".55"/>
+        <text x="719" y="285" class="mono" fill="#58A6FF" font-size="11">02</text>
+        <text x="760" y="285" fill="#E6EDF3" font-size="13" font-weight="700">FULLSTACK</text>
+        <text x="985" y="285" class="mono" fill="#8FA3BF" font-size="10">BUILD</text>
+        <path d="M1078 280h10" stroke="#58A6FF" stroke-width="1.5"/>
+
+        <rect x="708" y="300" width="419" height="28" rx="8" fill="#0F1F38" opacity=".55"/>
+        <text x="719" y="319" class="mono" fill="#58A6FF" font-size="11">03</text>
+        <text x="760" y="319" fill="#E6EDF3" font-size="13" font-weight="700">EXPERIMENTS</text>
+        <text x="985" y="319" class="mono" fill="#8FA3BF" font-size="10">LAB</text>
+        <path d="M1078 314h10" stroke="#58A6FF" stroke-width="1.5"/>
+      </g>
+
+      <rect x="708" y="232" width="419" height="28" rx="8" fill="#58A6FF" opacity=".06">
+        <animate attributeName="opacity" dur="3.8s" repeatCount="indefinite" values=".03;.12;.03"/>
+      </rect>
+    </g>
+
+    <circle cx="1138" cy="352" r="30" fill="#58A6FF" opacity=".08" filter="url(#blur)"/>
+  </g>
+  <rect x=".75" y=".75" width="1198.5" height="388.5" rx="26" fill="none" stroke="#1D3354" stroke-width="1.5"/>
+</svg>

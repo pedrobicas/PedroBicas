@@ -1,68 +1,49 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=180&color=0:0D1117,100:161B22&fontColor=58A6FF&fontSize=36&text=Pedro%20Bicas&desc=Fullstack%20Developer&descAlignY=68&descSize=14&animation=fadeIn" />
+<a href="https://pedrobicas.com">
+  <img src="./assets/header.svg" width="100%" alt="Pedro Bicas, desenvolvedor fullstack em São Paulo">
+</a>
 
-<div align="center">
+## Sobre mim
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1400&color=58A6FF&center=true&vCenter=true&width=500&height=30&lines=Angular+%2B+React+%E2%80%94+Node.js+%2B+Java+%2B+Spring;Engenharia+de+Software+%40+FIAP+%2F+Formação+SENAI)](https://git.io/typing-svg)
+Desenvolvedor **fullstack** focado na construção de aplicações web e experiências digitais.
 
-<br/>
+Trabalho principalmente com **Angular, React e TypeScript** no frontend, além de **Java/Spring e Node.js** no backend. Atualmente curso **Engenharia de Software na FIAP**, atuo profissionalmente com desenvolvimento de software e sou técnico em **Desenvolvimento de Sistemas pelo SENAI**.
 
-[![Portfolio](https://img.shields.io/badge/pedrobicas.dev-0D1117?style=for-the-badge&logo=vercel&logoColor=58A6FF)](https://pedrobicas.dev)
+## Portfólio
 
-</div>
-
----
-
-Desenvolvedor fullstack com mais de 1 ano de experiência profissional. Angular e React no front, Java/Spring e Node.js no back. Atualmente atuo como bolsista no InCor (HCFMUSP), desenvolvendo aplicações web e APIs RESTful. Estou cursando Engenharia de Software na FIAP e sou formado em técnico em Desenvolvimento de Sistemas pelo SENAI.
-
----
-
-## Projetos
-
-| | Projeto | Stack |
-|:--|:---|:---|
-| 🎵 | **[My Spotify Universe](https://my-universe-spotify.pedrobicas.dev)** — Conecta sua conta do Spotify e gera uma visualização do seu universo musical com base nos seus dados reais de consumo. | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Node](https://img.shields.io/badge/Node.js-1a1a1a?style=flat-square&logo=nodedotjs&logoColor=3C873A) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) |
-| 💼 | **[Portfólio](https://pedrobicas.dev)** — Portfólio pessoal responsivo e animado com seções de projetos, habilidades e experiências. | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white) |
-| 📄 | **Postlocal** — Plataforma de geração de conteúdo para redes sociais com IA integrada. Full-stack com front em Next.js e pipeline de IA em Python. | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| 💬 | **Chat em Tempo Real** — Frontend Angular integrado com backend Java/Spring via WebSocket/STOMP. Salas públicas e privadas, temas e notificações. | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) |
-| 📈 | **Crypto Analysis** — Análise técnica de criptomoedas com indicadores avançados e simulação de investimentos. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-
----
+<a href="https://pedrobicas.com">
+  <img src="./assets/portfolio.svg" width="100%" alt="pedrobicas.com — projetos pessoais, interfaces, experimentos, stack e trajetória de Pedro Bicas">
+</a>
 
 ## Stack
 
-<div align="center">
+<img src="./assets/stack.svg" width="100%" alt="Front-end: Angular, React, Next.js, TypeScript, JavaScript e Sass. Back-end: Java, Spring, Node.js, Express e Python. Dados e infra: PostgreSQL, MySQL, Docker, Git e Linux.">
 
-**Frontend**
-<br/>
-[![Skills](https://skillicons.dev/icons?i=angular,react,nextjs,ts,js,sass&theme=dark)](https://skillicons.dev)
+## Atividade no GitHub
 
-**Backend**
-<br/>
-[![Skills](https://skillicons.dev/icons?i=java,spring,nodejs,python,express&theme=dark)](https://skillicons.dev)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/3d-dark.svg">
+  <img width="100%" alt="Gráfico 3D das minhas contribuições no último ano" src="./profile-3d-contrib/3d-light.svg">
+</picture>
 
-**Infra & Dados**
-<br/>
-[![Skills](https://skillicons.dev/icons?i=postgres,mysql,docker,git,linux&theme=dark)](https://skillicons.dev)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg">
+    <img height="150" alt="Estatísticas do GitHub de Pedro Bicas" src="./profile/stats-light.svg">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/streak-dark.svg">
+    <img height="150" alt="Sequência semanal de contribuições no GitHub" src="./profile/streak-light.svg">
+  </picture>
+</p>
 
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/snake-dark.svg">
+  <img width="100%" alt="Animação das contribuições do GitHub" src="./profile/snake-light.svg">
+</picture>
 
----
+## Contato
 
-## GitHub
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=pedrobicas&hide_border=true&background=0D1117&stroke=21262D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedrobicas&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area_color=0D1117&area=true&hide_border=true&custom_title=Contribuições" />
-</div>
-
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=pedrobicas&label=views&color=0D1117&style=flat-square&labelColor=21262D" />
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=100&section=footer&color=0:161B22,100:0D1117&reversal=true" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/pedro-bicas"><img src="./assets/botao-linkedin.svg" height="42" alt="LinkedIn de Pedro Bicas"></a>&nbsp;
+  <a href="mailto:pedro.bicas14@gmail.com"><img src="./assets/botao-email.svg" height="42" alt="E-mail: pedro.bicas14@gmail.com"></a>
+</p>

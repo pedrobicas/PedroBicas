@@ -2,11 +2,13 @@ name: Atualizar widgets do perfil
 
 on:
   schedule:
-    - cron: "0 6 * * *" # 3h em São Paulo
+    - cron: "0 6 * * *" # 3h da manhã em São Paulo
   workflow_dispatch:
   push:
     branches: [main]
-    paths-ignore: ["profile/**", "profile-3d-contrib/**"]
+    paths-ignore:
+      - "profile/**"
+      - "profile-3d-contrib/**"
 
 permissions:
   contents: write
@@ -22,7 +24,9 @@ jobs:
     steps:
       - uses: actions/checkout@v6
 
-      - name: Estatísticas (escuro)
+      # Cards de estatísticas (GitHub Stats Extended). Se a API falhar,
+      # o passo é ignorado e a versão anterior do SVG continua no repositório.
+      - name: Estatísticas (tema escuro)
         uses: stats-organization/github-readme-stats-action@v2
         continue-on-error: true
         with:
@@ -32,7 +36,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
 
-      - name: Estatísticas (claro)
+      - name: Estatísticas (tema claro)
         uses: stats-organization/github-readme-stats-action@v2
         continue-on-error: true
         with:
@@ -42,7 +46,9 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
 
-      - name: Streak (cópia local)
+      # O servidor público do streak oscila; guardamos uma cópia local
+      # e só substituímos quando o download dá certo.
+      - name: Sequência de contribuições (cópia local)
         run: |
           mkdir -p profile
           baixar() {
@@ -50,14 +56,14 @@ jobs:
             if curl -fsSL --max-time 60 "$1" -o "$tmp" && grep -q "<svg" "$tmp" && ! grep -qiE "went wrong|not found|error fetching" "$tmp"; then
               mv "$tmp" "$2"
             else
-              echo "::warning::Streak indisponível, mantendo a versão anterior de $2"
+              echo "::warning::Streak indisponível agora; mantendo a versão anterior de $2"
             fi
           }
           BASE="https://streak-stats.demolab.com/?user=${{ github.repository_owner }}&locale=pt_BR&timezone=America/Sao_Paulo&mode=weekly&border_radius=12"
           baixar "$BASE&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" profile/streak-dark.svg
           baixar "$BASE&background=FFFFFF&border=D0D7DE&stroke=D0D7DE&ring=0969DA&fire=0969DA&currStreakNum=1F2328&sideNums=1F2328&currStreakLabel=0969DA&sideLabels=656D76&dates=656D76" profile/streak-light.svg
 
-      - name: Gráfico 3D
+      - name: Gráfico 3D de contribuições
         uses: yoshi389111/github-profile-3d-contrib@v0.9.3
         continue-on-error: true
         env:
@@ -74,11 +80,12 @@ jobs:
             profile/snake-dark.svg?palette=github-dark&color_snake=#58A6FF&color_dots=#161B22,#0D419D,#1F6FEB,#388BFD,#79C0FF
             profile/snake-light.svg?palette=github-light&color_snake=#0969DA&color_dots=#EBEDF0,#B6E3FF,#54AEFF,#0969DA,#0A3069
 
-      - name: Commit
+      - name: Salvar no repositório
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A .
           git diff --cached --quiet && exit 0
           git commit -m "chore: atualiza widgets do perfil"
-          git pull --rebase && git push
+          git pull --rebase
+          git push

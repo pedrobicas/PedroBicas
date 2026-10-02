@@ -1,18 +1,40 @@
 [
   {
-    "type": "normal", "fileName": "3d-dark.svg",
-    "backgroundColor": "#0D1117", "foregroundColor": "#C9D1D9",
-    "strongColor": "#58A6FF", "weakColor": "#8B949E", "radarColor": "#58A6FF",
+    "type": "normal",
+    "fileName": "3d-dark.svg",
+    "backgroundColor": "#0D1117",
+    "foregroundColor": "#C9D1D9",
+    "strongColor": "#58A6FF",
+    "weakColor": "#8B949E",
+    "radarColor": "#58A6FF",
     "growingAnimation": true,
     "contribColors": ["#161B22", "#0D419D", "#1F6FEB", "#388BFD", "#79C0FF"],
-    "l10n": { "commit": "Commits", "repo": "Repos", "review": "Revisões", "pullreq": "PRs", "issue": "Issues", "contrib": "contribuições" }
+    "l10n": {
+      "commit": "Commits",
+      "repo": "Repos",
+      "review": "Revisões",
+      "pullreq": "PRs",
+      "issue": "Issues",
+      "contrib": "contribuições"
+    }
   },
   {
-    "type": "normal", "fileName": "3d-light.svg",
-    "backgroundColor": "#FFFFFF", "foregroundColor": "#1F2328",
-    "strongColor": "#0969DA", "weakColor": "#656D76", "radarColor": "#0969DA",
+    "type": "normal",
+    "fileName": "3d-light.svg",
+    "backgroundColor": "#FFFFFF",
+    "foregroundColor": "#1F2328",
+    "strongColor": "#0969DA",
+    "weakColor": "#656D76",
+    "radarColor": "#0969DA",
     "growingAnimation": true,
     "contribColors": ["#EBEDF0", "#B6E3FF", "#54AEFF", "#0969DA", "#0A3069"],
-    "l10n": { "commit": "Commits", "repo": "Repos", "review": "Revisões", "pullreq": "PRs", "issue": "Issues", "contrib": "contribuições" }
+    "l10n": {
+      "commit": "Commits",
+      "repo": "Repos",
+      "review": "Revisões",
+      "pullreq": "PRs",
+      "issue": "Issues",
+      "contrib": "contribuições"
+    }
   }
 ]
