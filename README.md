@@ -20,26 +20,16 @@ Trabalho principalmente com **Angular, React e TypeScript** no frontend, além d
 
 ## Atividade no GitHub
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/3d-dark.svg">
-  <img width="100%" alt="Gráfico 3D das minhas contribuições no último ano" src="./profile-3d-contrib/3d-light.svg">
-</picture>
+<img width="100%" src="./profile-3d-contrib/3d-dark.svg" alt="Gráfico 3D das contribuições de Pedro Bicas">
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg">
-    <img height="150" alt="Estatísticas do GitHub de Pedro Bicas" src="./profile/stats-light.svg">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/streak-dark.svg">
-    <img height="150" alt="Sequência semanal de contribuições no GitHub" src="./profile/streak-light.svg">
-  </picture>
+  <img height="165" src="./profile/stats-dark.svg" alt="Estatísticas do GitHub de Pedro Bicas">
+  <img height="165" src="./profile/streak-dark.svg" alt="Sequência de contribuições de Pedro Bicas">
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile/snake-dark.svg">
-  <img width="100%" alt="Animação das contribuições do GitHub" src="./profile/snake-light.svg">
-</picture>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pedrobicas&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=58A6FF&area_color=161B22&area=true&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es" alt="Gráfico de atividade no GitHub">
+
+<img width="100%" src="./profile/snake-dark.svg" alt="Animação das contribuições do GitHub">
 
 ## Contato
 
