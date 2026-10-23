@@ -13,7 +13,7 @@ Desenvolvedor de software com foco em aplicações web **full-stack**, principal
 
 Atuo profissionalmente com desenvolvimento de software desde 2024 e estou concluindo Engenharia de Software na FIAP. Nos projetos pessoais, gosto de explorar arquitetura de software, comunicação em tempo real, ferramentas úteis e experiências interativas, da interface à implementação.
 
-[**Portfólio**](https://pedrobicas.com) · [Currículo](https://pedrobicas.com/curriculo) · [LinkedIn](https://www.linkedin.com/in/pedro-bicas) · [E-mail](mailto:pedro.bicas14@gmail.com)
+[**Portfólio**](https://pedrobicas.com) · [Currículo](https://pedrobicas.com/curriculo) · [LinkedIn](https://www.linkedin.com/in/pedrobicas) · [E-mail](mailto:pedro.bicas14@gmail.com)
 
 ## Portfólio
 
@@ -59,6 +59,6 @@ I've worked in software development since 2024 and currently hold a software dev
 
 My selected projects include **[Realtime Chat](https://github.com/pedrobicas/java-realtime-chat/tree/develop/v2)** (an Angular and Spring Boot messaging application, with v2 in development), **[STACK10](https://github.com/pedrobicas/STACK10)** (a deterministic browser puzzle with replay support), **[Faxina](https://github.com/pedrobicas/faxina)** (a local disk analysis and reversible cleanup tool), and **[My Universe](https://github.com/pedrobicas/my-universe-spotify)** (a Spotify-connected web application with OAuth 2.0).
 
-[**Portfolio**](https://pedrobicas.com) · [Résumé](https://pedrobicas.com/curriculo) · [LinkedIn](https://www.linkedin.com/in/pedro-bicas) · [Email](mailto:pedro.bicas14@gmail.com)
+[**Portfolio**](https://pedrobicas.com) · [Résumé](https://pedrobicas.com/curriculo) · [LinkedIn](https://www.linkedin.com/in/pedrobicas) · [Email](mailto:pedro.bicas14@gmail.com)
 
 </details>
