@@ -29,7 +29,7 @@ Atuo profissionalmente com desenvolvimento de software desde 2024 e estou conclu
 ### Projetos selecionados
 
 - **[Sabiá](https://github.com/pedrobicas/sabia)** · Assistente de base de conhecimento para empresas com **RAG**, em **Spring Boot, Spring AI, Angular e pgvector**. Cada resposta cita o documento e o trecho de onde saiu, e a busca combina vetores com palavras-chave. [Demo](https://sabia-knzg.onrender.com).
-- **[Realtime Chat](https://github.com/pedrobicas/java-realtime-chat/tree/develop/v2)** · Chat em tempo real com **Spring Boot, WebSocket/STOMP e [Angular](https://github.com/pedrobicas/web-realtime-chat/tree/develop/v2)**. A versão 2 está em desenvolvimento, com persistência de mensagens públicas, histórico e gerenciamento de sessões. As conversas privadas permanecem desativadas até a implementação de autenticação e autorização.
+- **[Realtime Chat](https://github.com/pedrobicas/java-realtime-chat/tree/develop/v2)** · Chat em tempo real com **Spring Boot, WebSocket/STOMP e [Angular](https://github.com/pedrobicas/web-realtime-chat/tree/develop/v2)**. A versão 2 está em desenvolvimento, com persistência de mensagens públicas, histórico e gerenciamento de sessões.
 - **[STACK10](https://github.com/pedrobicas/STACK10)** · Puzzle de blocos para navegador, com simulação determinística a **120 Hz** e reprodução de partidas por seed e entradas registradas. [Demo](https://stack10.pedrobicas.com).
 - **[Faxina](https://github.com/pedrobicas/faxina)** · Ferramenta local para analisar o espaço em disco, localizar arquivos grandes e duplicados e revisar a limpeza com uma **quarentena reversível**. Os arquivos são processados no próprio computador.
 
