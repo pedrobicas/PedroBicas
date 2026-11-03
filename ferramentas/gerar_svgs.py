@@ -67,7 +67,7 @@ PORTFOLIO = {
     "acao": "abrir o portfólio",
     # O que tem no site: (nome, detalhe). Atualize a contagem quando entrar projeto novo.
     "secoes": [
-        ("Projetos", "7 projetos"),
+        ("Projetos", "8 projetos"),
         ("Trajetória", "SENAI · FIAP · InCor"),
         ("Stack", "onde cada uma é usada"),
         ("Currículo", "pronto para PDF"),
