@@ -29,7 +29,7 @@ Atuo profissionalmente com desenvolvimento de software desde 2024 e estou conclu
 ### Projetos selecionados
 
 - **[Sabiá](https://github.com/pedrobicas/sabia)** · Assistente de base de conhecimento para empresas com **RAG**, em **Spring Boot, Spring AI, Angular e pgvector**. Cada resposta cita o documento e o trecho de onde saiu, e a busca combina vetores com palavras-chave. [Demo](https://sabia-knzg.onrender.com).
-- **[Realtime Chat](https://github.com/pedrobicas/java-realtime-chat/tree/develop/v2)** · Chat em tempo real com **Spring Boot, WebSocket/STOMP e [Angular](https://github.com/pedrobicas/web-realtime-chat/tree/develop/v2)**. A versão 2 está em desenvolvimento, com persistência de mensagens públicas, histórico e gerenciamento de sessões.
+- **[Realtime Chat](https://github.com/pedrobicas/java-realtime-chat)** · Chat em tempo real com **Spring Boot, WebSocket/STOMP e [Angular](https://github.com/pedrobicas/web-realtime-chat)**.
 - **[STACK10](https://github.com/pedrobicas/STACK10)** · Puzzle de blocos para navegador, com simulação determinística a **120 Hz** e reprodução de partidas por seed e entradas registradas. [Demo](https://stack10.pedrobicas.com).
 - **[Faxina](https://github.com/pedrobicas/faxina)** · Ferramenta local para analisar o espaço em disco, localizar arquivos grandes e duplicados e revisar a limpeza com uma **quarentena reversível**. Os arquivos são processados no próprio computador.
 
@@ -57,7 +57,7 @@ I'm a full-stack software developer based in São Paulo, Brazil, primarily worki
 
 I've worked in software development since 2024 and currently hold a software development fellowship at InCor (HC-FMUSP). I'm completing a Software Engineering degree at FIAP and have a technical diploma in Software Development from SENAI.
 
-My selected projects include **[Sabiá](https://github.com/pedrobicas/sabia)** (a RAG knowledge-base assistant built with Spring Boot, Spring AI, Angular, and pgvector, where every answer cites its source; [demo](https://sabia-knzg.onrender.com)), **[Realtime Chat](https://github.com/pedrobicas/java-realtime-chat/tree/develop/v2)** (an Angular and Spring Boot messaging application, with v2 in development), **[STACK10](https://github.com/pedrobicas/STACK10)** (a deterministic browser puzzle with replay support), and **[Faxina](https://github.com/pedrobicas/faxina)** (a local disk analysis and reversible cleanup tool).
+My selected projects include **[Sabiá](https://github.com/pedrobicas/sabia)** (a RAG knowledge-base assistant built with Spring Boot, Spring AI, Angular, and pgvector, where every answer cites its source; [demo](https://sabia-knzg.onrender.com)), **[Realtime Chat](https://github.com/pedrobicas/java-realtime-chat)** (an Angular and Spring Boot real-time messaging application), **[STACK10](https://github.com/pedrobicas/STACK10)** (a deterministic browser puzzle with replay support), and **[Faxina](https://github.com/pedrobicas/faxina)** (a local disk analysis and reversible cleanup tool).
 
 [**Portfolio**](https://pedrobicas.com) · [Résumé](https://pedrobicas.com/curriculo) · [LinkedIn](https://www.linkedin.com/in/pedrobicas) · [Email](mailto:pedro.bicas14@gmail.com)
 
