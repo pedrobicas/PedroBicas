@@ -37,14 +37,14 @@ Atuo profissionalmente com desenvolvimento de software desde 2024 e estou conclu
 
 | Área | Tecnologias |
 | :--- | :--- |
-| **Front-end** | **Angular · TypeScript** · RxJS · SCSS · React · Next.js |
-| **Back-end** | **Java · Spring Boot** (Web, Security, Data JPA) · Node.js · Express · Python · Django |
-| **Dados** | PostgreSQL · MySQL · SQLite |
+| **Front-end** | **Angular · TypeScript** · RxJS · React · Next.js · Sass · Tailwind CSS |
+| **Back-end** | **Java · Spring Boot** (Web, Security, Data JPA) · Spring AI · APIs REST · WebSocket · Node.js · Python |
+| **Dados** | PostgreSQL · pgvector · MySQL · SQLite |
 | **Testes e infraestrutura** | JUnit · Mockito · Playwright · Docker · GitHub Actions · Git · Linux |
 
 ## Experiência e formação
 
-- **InCor (HC-FMUSP)** · Desenvolvimento de software (bolsista), desde 2024. Atuação no desenvolvimento e manutenção de aplicações e soluções de software.
+- **InCor (HC-FMUSP)** · Desenvolvedor full-stack (bolsista de P&D), desde 2024. Desenvolvi praticamente sozinho dois sistemas em produção, com usuários reais: uma plataforma web (Angular, Spring Boot, PostgreSQL) e uma API que executa algoritmos em Python, da arquitetura aos contêineres Docker.
 - **FIAP** · Engenharia de Software (2023–2026). Bolsa Mérito e 3º lugar no desafio Next 2024.
 - **SENAI** · Técnico em Desenvolvimento de Sistemas (2021–2022).
 
@@ -55,7 +55,7 @@ Atuo profissionalmente com desenvolvimento de software desde 2024 e estou conclu
 
 I'm a full-stack software developer based in São Paulo, Brazil, primarily working with **Angular, TypeScript, Java, and Spring Boot**.
 
-I've worked in software development since 2024 and currently hold a software development fellowship at InCor (HC-FMUSP). I'm completing a Software Engineering degree at FIAP and have a technical diploma in Software Development from SENAI.
+I've worked in software development since 2024 as a full-stack developer (R&D fellowship) at InCor (HC-FMUSP), where I built, almost single-handedly, two systems now in production: a web platform (Angular, Spring Boot, PostgreSQL) and an API that runs Python algorithms. I'm completing a Software Engineering degree at FIAP and have a technical diploma in Software Development from SENAI.
 
 My selected projects include **[Sabiá](https://github.com/pedrobicas/sabia)** (a RAG knowledge-base assistant built with Spring Boot, Spring AI, Angular, and pgvector, where every answer cites its source; [demo](https://sabia.pedrobicas.com)), **[Realtime Chat](https://github.com/pedrobicas/java-realtime-chat)** (an Angular and Spring Boot real-time messaging application), **[STACK10](https://github.com/pedrobicas/STACK10)** (a deterministic browser puzzle with replay support), and **[Faxina](https://github.com/pedrobicas/faxina)** (a local disk analysis and reversible cleanup tool).
 
